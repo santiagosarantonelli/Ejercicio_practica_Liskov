@@ -1,1 +1,1 @@
-# Ejercicio_practica_Liskov
+# Programa de metodos de pagos, utilizando concepto SOLID, Sustitución de Liskov
